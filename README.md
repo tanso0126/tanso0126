@@ -16,7 +16,7 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanso0126&theme=discord&row=1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanso0126&theme=discord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanso0126&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanso0126&layout=compact&theme=tokyonight&langs_count=8)
