@@ -18,8 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanso0126&theme=discord&row=1&no-cache=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanso0126&show_icons=true&theme=tokyonight&no-cache=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanso0126&layout=compact&theme=tokyonight&langs_count=8&no-cache=1)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanso0126&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanso0126&layout=compact&theme=tokyonight&langs_count=8)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js7777)](https://solved.ac/js7777/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=js7777&theme=dark)
