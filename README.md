@@ -7,7 +7,7 @@
   
 - 🇰🇷 A science high school student in Korea with a passion for development.
 - 🎓 33rd class of KSHS.  
-- 🖋️ I have a [Blog](leewatson.tistory.com)!
+- 🖋️ I have a [Blog](https://leewatson.tistory.com)!
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
