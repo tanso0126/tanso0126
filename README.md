@@ -16,13 +16,13 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanso0126&theme=discord&row=1&no-cache=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanso0126&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanso0126&layout=compact&theme=tokyonight&langs_count=8)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js7777)](https://solved.ac/js7777/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=js7777&theme=dark)
+<a href="https://solta.kr/profile/tanso0126">
+  <img src="https://prod.solta.kr/api/badges/tanso0126" width="350" alt="Solta Stats">
+</a>
 [![CodeForces Profile](https://cf.leed.at?id=Takanashi_rikka)](https://codeforces.com/profile/Takanashi_rikka)
 
   
