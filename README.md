@@ -19,8 +19,6 @@
 
 
 [![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=js7777)](https://github.com/kookjd7759/solvedac-readme-stats)
-
-<a href="https://solta.kr/profile/tanso0126"><img src="https://prod.solta.kr/api/badges/tanso0126" width="350" alt="Solta Stats"></a>
 [![CodeForces Profile](https://cf.leed.at?id=Takanashi_rikka)](https://codeforces.com/profile/Takanashi_rikka)
 
   
@@ -29,4 +27,5 @@
 <div align=left>
 	
 - Kangwon Science High School 33rd (2025.03 ~ )
+- Pandas President
 </div>
