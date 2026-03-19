@@ -18,9 +18,8 @@
 
 
 
-[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=js7777)](https://github.com/kookjd7759/solvedac-readme-stats)
-
-[![CodeForces Profile](https://cf.leed.at?id=Takanashi_rikka)](https://codeforces.com/profile/Takanashi_rikka)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js7777)](https://solved.ac/js7777/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=js7777&theme=dark)
 
   
 </div>
