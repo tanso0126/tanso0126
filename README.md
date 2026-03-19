@@ -21,6 +21,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js7777)](https://solved.ac/js7777/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=js7777&theme=dark)
 
+[![CodeForces Profile](https://cf.leed.at?id=Takanashi_rikka)](https://codeforces.com/profile/Takanashi_rikka)
+
   
 </div>
 
