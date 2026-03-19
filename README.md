@@ -19,6 +19,7 @@
 
 
 [![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=js7777)](https://github.com/kookjd7759/solvedac-readme-stats)
+
 [![CodeForces Profile](https://cf.leed.at?id=Takanashi_rikka)](https://codeforces.com/profile/Takanashi_rikka)
 
   
